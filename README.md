@@ -66,8 +66,8 @@ metadata = extract_metadata("document.pdf")
 ## Development
 
 ```bash
-git clone https://github.com/surajshinde/pdf-extract-pro.git
-cd pdf-extract-pro
+git clone https://github.com/surajshinde427/pdf-to-structure-converter.git
+cd pdf-to-structure-converter
 pip install -e .[dev]
 pytest tests/
 ```

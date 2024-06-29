@@ -5,7 +5,7 @@ setup(
     version="0.1.0",
     author="Suraj Shinde",
     description="Extract structured data from messy PDFs",
-    url="https://github.com/surajshinde/pdf-extract-pro",
+    url="https://github.com/surajshinde427/pdf-to-structure-converter",
     packages=find_packages(exclude=["tests"]),
     python_requires=">=3.8",
     install_requires=[
